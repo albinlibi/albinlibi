@@ -1,8 +1,8 @@
-- 👋 Hi, I’m @albinlibi
+- 👋 Hi, This is @albinlibi
 - 👀 I’m interested in tech.
-- 🌱 I’m currently learning Cyber Security & Pen Testing.
+- 🌱 Currently learning Cyber Security & Pen Testing.
 - 💞️ I’m looking to collaborate on any researches or projects.
-- 📫 How to reach me in https://www.linkedin.com/in/albinlibimadana1999/
+- 📫 Reach me in https://www.linkedin.com/in/albinlibimadana1999/
 
 <!---
 albinlibi/albinlibi is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
